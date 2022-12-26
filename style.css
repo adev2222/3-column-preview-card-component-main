@@ -75,7 +75,6 @@
     font-family: var(--ff-base);
     font-size: 15px;
     display: grid;
-    height: fit-content;
     place-content: center;
     background-color: var(--clr-neutral-gray);
   }
@@ -99,6 +98,7 @@
   }
 
   .card__item{
+
     padding: 3rem;
     display: grid;
     gap: 2rem;
